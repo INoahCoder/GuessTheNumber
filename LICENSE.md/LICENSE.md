@@ -1,3 +1,3 @@
 Dude.
-It's rock paper scissors.
+It's Guess a number.
 Do want you want with it.
